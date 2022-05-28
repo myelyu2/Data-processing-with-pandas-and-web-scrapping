@@ -1,5 +1,4 @@
 # Data processing with pandas and web scrapping
-<img width="577" alt="Screen Shot 2022-05-28 at 4 54 26 PM" src="https://user-images.githubusercontent.com/89800281/170843994-e24348c3-6837-40aa-ac3b-b08241930e34.png">
 
 <h2>To see the project go to the hw1 - Jupyter Notebook.pdf file </h2>
 
